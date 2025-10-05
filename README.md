@@ -1,6 +1,8 @@
 Text Summarizer App
 
 A simple yet powerful AI-powered web app that takes any news article or blog post and summarizes it into 3 concise sentences — built using Hugging Face Transformers, Flask, and Gradio UI.
+<img width="1697" height="881" alt="Screenshot 2025-10-05 234934" src="https://github.com/user-attachments/assets/c5700933-ac21-4745-8465-b6654ac243e9" />
+
 
  Motivation
 
