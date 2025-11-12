@@ -30,7 +30,7 @@ Python 3.10+
 
 Transformers (Hugging Face) — pre-trained summarization model.
 
-Gradio — to create the interactive web interface.
+Streamlit
 
 Flask (optional) — for backend deployment.
 
